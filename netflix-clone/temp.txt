@@ -1,0 +1,4 @@
+API     9447d918dc26a5ae4990c7630bc47925
+
+
+GET     https://api.themoviedb.org/3/movie/550?api_key=9447d918dc26a5ae4990c7630bc47925
